@@ -1,0 +1,69 @@
+body { background-color:rgb(161, 205, 230) ;
+
+}
+
+header { background-color: steelblue;
+    text-align: center;
+    padding: 10px;
+
+  }
+
+h1 { color: #7D8AC3;
+border: rgb(87, 116, 116) 7px solid;
+background-color: beige;
+}
+
+header li { border:rgb(87, 116, 116) 4px;
+       display: inline;
+       background-color: cadetblue;
+       color: beige;
+       padding: 10px;
+       margin: 10px;
+
+     }
+#hawaii_img { display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+     width:640px;
+     height: 360px;
+     border: rgb(87, 116, 116) 7px solid;
+   }
+
+#italyimg { display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+       width: 640px;
+       height: 360px;
+       border: rgb(87, 116, 116) 7px solid;
+     }
+
+#text { text-align: justify;
+   color:rgb(79, 101, 121);
+   background-color: steelblue;
+   font-weight: bold;border: rgb(87, 116, 116) 7px solid;
+
+}
+
+#paris {display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+       width: 640px;
+       height: 360px;
+
+}
+
+footer li { border:rgb(87, 116, 116) 4px;
+display: block;
+background-color: cadetblue;
+color: beige;
+padding: 9px;
+margin: 9px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+
+}
